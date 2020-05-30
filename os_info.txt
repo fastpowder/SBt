@@ -1,5 +1,5 @@
 OS info is 
-uname_result(system='Darwin', node='MacBook-Air-Igor.local', release='17.7.0', version='Darwin Kernel Version 17.7.0: Thu Jan 23 07:05:23 PST 2020; root:xnu-4570.71.69~1/RELEASE_X86_64', machine='x86_64', processor='i386')
+uname_result(system='Darwin', node='MacBook-Air-Igor.local', release='19.5.0', version='Darwin Kernel Version 19.5.0: Thu Apr 30 18:25:59 PDT 2020; root:xnu-6153.121.1~7/RELEASE_X86_64', machine='x86_64', processor='i386')
 
 Python version is 3.8.3 (v3.8.3:6f8c8320e9, May 13 2020, 16:29:34) 
 [Clang 6.0 (clang-600.0.57)] ('64bit', '')
